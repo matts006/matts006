@@ -1,4 +1,4 @@
-## Olá! Meu nome é Mateus 👋
+## PERFIL EM DESENVOLVIMENTO... Olá! Meu nome é Mateus 👋
 
 
 ## Competências
@@ -17,4 +17,12 @@
 - Proativo
 - Liderança
 - Trabalho em equipe
+- Racional
 
+## Objetivos
+- Trabalhar como backend em sistemas gerais
+- Trabalhar com análise de dados em grandes corporações
+
+## Metas
+- Fazer curso de design ainda em 2026 com foco em Blender
+- Fazer curso de Linguagem C e RStudio em julho
