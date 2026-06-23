@@ -1,16 +1,20 @@
-## Hi there 👋
+## Olá! Meu nome é Mateus 👋
 
-<!--
-**matts006/matts006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Competências
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Cálculo 1
+- Álgebra Linear
+- Lógica computaional
+- Básico de Linguagem C e raylib
+
+## Habilidades
+
+- Produzi um jogo em raylib em um trabalho em grupo > https://github.com/thivpb/Disease-s_Doomsday
+
+## Atitudes
+- Criativo
+- Proativo
+- Liderança
+- Trabalho em equipe
+
